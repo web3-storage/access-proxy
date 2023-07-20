@@ -1,0 +1,18 @@
+name = "access-proxy"
+main = "src/worker.js"
+compatibility_date = "2023-07-17"
+
+[vars]
+PROXY_URL = "https://staging.up.web3.storage"
+
+[env.staging]
+name = "w3up-access-proxy-staging"
+
+[env.staging.vars]
+PROXY_URL = "https://staging.up.web3.storage"
+
+[env.production]
+name = "w3up-access-proxy-production"
+
+[env.production.vars]
+PROXY_URL = "https://up.web3.storage"
