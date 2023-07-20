@@ -18,4 +18,4 @@ PROXY_URL = "https://wqlmdr24gf.execute-api.us-east-2.amazonaws.com"
 account_id = "fffa4b4363a7e5250af8357087263b3a"
 
 [env.production.vars]
-PROXY_URL = "	https://riu5w2lla3.execute-api.us-west-2.amazonaws.com"
+PROXY_URL = "https://riu5w2lla3.execute-api.us-west-2.amazonaws.com"
