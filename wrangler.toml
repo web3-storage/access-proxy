@@ -7,6 +7,9 @@ PROXY_URL = "https://staging.up.web3.storage"
 
 [env.staging]
 account_id = "fffa4b4363a7e5250af8357087263b3a"
+routes = [
+	{ pattern = "staging.access.web3.storage", custom_domain = true }
+]
 
 [env.staging.vars]
 PROXY_URL = "https://staging.up.web3.storage"
