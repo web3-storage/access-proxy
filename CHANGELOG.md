@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/web3-storage/access-proxy/compare/v1.0.0...v1.0.1) (2023-07-20)
+
+
+### Bug Fixes
+
+* fix production URL ([a0ad123](https://github.com/web3-storage/access-proxy/commit/a0ad1233fea13c83de3e8a97b65ab1649197ba95))
+
 ## 1.0.0 (2023-07-20)
 
 
