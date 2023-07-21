@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/web3-storage/access-proxy/compare/v1.0.1...v1.1.0) (2023-07-21)
+
+
+### Features
+
+* add custom domain to production env ([562349a](https://github.com/web3-storage/access-proxy/commit/562349a1105ac8760a9ce10849652f6d65486f83))
+
 ## [1.0.1](https://github.com/web3-storage/access-proxy/compare/v1.0.0...v1.0.1) (2023-07-20)
 
 
